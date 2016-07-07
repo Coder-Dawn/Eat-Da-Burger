@@ -1,0 +1,1 @@
+INSERT INTO burgers_db.burgers(burger_name,devoured) values('cheeseburger', false),('bacon cheeseburger',false),('veggieburger',false), ('turkeyburger',false)
